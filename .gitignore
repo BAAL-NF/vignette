@@ -5,3 +5,5 @@ generate_sample_sheet.sh
 reports/*
 work/*
 data/*
+.vscode*
+assets/*
