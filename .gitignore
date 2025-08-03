@@ -1,0 +1,7 @@
+files.csv
+make_run.py
+generate_sample_sheet.sh
+.nextflow*
+reports/*
+work/*
+data/*
